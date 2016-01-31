@@ -19,3 +19,5 @@ Index
 * :ref:`genindex`
 * :ref:`search`
 
+Haben Sie in dieser Dokumentation einen Fehler entdeckt? Melden Sie ihn bitte
+unter http://www.linuxmuster.net/flyspray.
